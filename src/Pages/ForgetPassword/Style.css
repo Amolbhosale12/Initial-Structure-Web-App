@@ -1,0 +1,23 @@
+.forgot-password-main,.forgot-password-next{
+    background-color:#DCDCE3 ;
+    height: 100%;
+}
+.forgot-password-container,.forgot-password-next-container{
+    border-radius: 10px;
+    background-color: var(--bg-white);
+    height:100%;
+    margin-bottom: 206px;
+}
+.forgot-password-label{
+    font-size: 30px;
+    font-weight: 600;
+}
+.submit-btn {
+    width: 100%;
+}
+.forgot-password-next-label{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+

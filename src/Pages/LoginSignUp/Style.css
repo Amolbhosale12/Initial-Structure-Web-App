@@ -1,0 +1,46 @@
+.loginsignup{
+    background-color: #DCDCE3;
+    height: 100%;
+}
+.loginsignup-container{
+    background-color: var(--bg-white);
+    display: flex;
+    justify-content: center;
+}
+.loginsignup-label-name{
+    font-size: 40px;
+    font-weight: 600;
+}
+.loginsignup-subcontainer{
+}
+.login-btn{
+    width: 100%;
+}
+.signup-container-link{
+    display: flex;
+    justify-content: center;
+}
+.signup-link{
+    text-decoration: none;
+    
+}
+.forgot-password-link{
+    text-decoration: none;
+}
+.login-btn ,.btn{
+    font-weight: 600;
+}
+.notification-label{
+    font-size: 5px;
+    font-weight: 600;
+}
+.notification-container{
+    background-color: grey;
+    display: flex;
+    padding: 0px 7px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    background-color: #10f187;
+
+}
